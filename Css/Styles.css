@@ -1,0 +1,19 @@
+body{
+    background-color: #2D3250;  
+}
+
+hr{
+    
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 10px;
+    border-color: #F6B17A;
+}
+
+h1, h3, th{
+    color: #F6B17A;
+}
+
+ a, label, li, td, p{
+    color: #fff;
+} 
